@@ -1,4 +1,4 @@
-# Ashley
+# Ashley 💮
 Hello! Here's my github profile. You may find some of my projects here, whether they be personal or academic.
 
 ---
