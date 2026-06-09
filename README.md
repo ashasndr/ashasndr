@@ -12,7 +12,7 @@ Hello! Here's my github profile. You may find some of my projects here, whether 
 ---
 
 # Hard Skills
-### 🔧 Software / System
+### 🔧 Software / Systems
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
