@@ -5,7 +5,6 @@ Hello! Here's my github profile. You may find some of my projects here, whether 
 
 # About Me
 - Undergraduate student in Computer Science at the University of Rennes
-- Intern in ML at Thuyloi University, Hanoi
 - Interested in AI/ML, Data science, UI/UX.
 - Actively learning Rust and Nix.
 
